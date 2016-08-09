@@ -1,0 +1,7 @@
+name 'sauron'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures sauron'
+long_description 'Installs/Configures sauron'
+version '0.1.0'
